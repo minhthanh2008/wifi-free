@@ -1,2 +1,2 @@
-# wifi-free
+# free-wifi
 that is true
